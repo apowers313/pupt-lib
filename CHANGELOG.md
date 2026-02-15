@@ -1,3 +1,10 @@
+## [1.3.9](https://github.com/apowers313/pupt-lib/compare/v1.3.8...v1.3.9) (2026-02-15)
+
+
+### Bug Fixes
+
+* use jsx fragments rather than regexp preprocessing to fix regexp bugs ([1508cfb](https://github.com/apowers313/pupt-lib/commit/1508cfbea38d931a0a51e2c563b2f94825c4cf96))
+
 ## [1.3.8](https://github.com/apowers313/pupt-lib/compare/v1.3.7...v1.3.8) (2026-02-15)
 
 
